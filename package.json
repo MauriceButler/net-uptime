@@ -1,0 +1,29 @@
+{
+  "name": "net-uptime",
+  "version": "1.0.0",
+  "description": "Log internet uptime by pinging google.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauriceButler/net-uptime.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com> (http://maur.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/net-uptime/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/net-uptime#readme",
+  "bin": {
+    "net-uptime": "./index.js"
+  },
+  "keywords": [
+    "net",
+    "uptime",
+    "ping",
+    "internet",
+    "telstra"
+  ]
+}
